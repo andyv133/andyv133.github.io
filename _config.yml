@@ -42,9 +42,6 @@ avatar: assets/images/avatar.png
 # Published:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://onesparkplug.com" # the base hostname & protocol for your site
-# Local
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
