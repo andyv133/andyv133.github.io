@@ -41,7 +41,7 @@ avatar: assets/images/avatar.png
 # You'll want to customize url and baseurl for your own site:
 # Published:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andyv133.github.io" # the base hostname & protocol for your site
+url: "onesparkplug.com" # the base hostname & protocol for your site
 # Local
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site
