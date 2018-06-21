@@ -42,6 +42,7 @@ And for this little transgression from the pavement, I was rewarded with a littl
 
 ![dirt view 2]({{ "/assets/images/20180618/20180618_114005.jpg" | absolute_url }})
 
+![dirt view 3]({{ "/assets/images/20180618/20180618_112520.jpg" | absolute_url }})
 
 The bike stayed clean for an entire 2.5 days, that might be a new record!
 
