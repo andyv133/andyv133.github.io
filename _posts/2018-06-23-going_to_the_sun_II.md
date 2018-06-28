@@ -68,5 +68,5 @@ Finally, I did laundry and watched it rain.  For some reason, I think my favorit
 
 
 
-P.S.  I finally got high resolution pictures uploaded, they're here: <a v
+P.S.  I finally got high resolution pictures uploaded, they're here: 
 <a href="https://www.flickr.com/photos/36630181@N06/albums/72157696709375771" >Photos</a>
