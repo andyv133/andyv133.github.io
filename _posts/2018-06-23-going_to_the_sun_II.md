@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Going to the Sun Pt II
-date: 2018-06-23 19:34:00 -0600
+date: 2018-06-23 00:00:00 -0600
 category: alaska
 ---
 

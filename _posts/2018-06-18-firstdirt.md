@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Dirt
-date: 2018-06-18 19:34:00 -0600
+date: 2018-06-18 00:00:00 -0600
 category: alaska
 ---
 
