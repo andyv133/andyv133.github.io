@@ -16,6 +16,7 @@ It also got colder, and so packing my freshly dampened gear led to some pretty i
 Once again, it was a circus.  I first stopped in at one of the little cafes to get a cup of coffee, but they were out of drip coffee when I got to the register so they concocted something using the espresso machine.  It was pretty tasty and most importantly; it was warm.  My next stop was the visitors center, where they had the weather forecast displayed on a TV.
 
 ![weather]({{ "/assets/images/20180629/20180629_111852.jpg" | absolute_url }})
+
 *Awesome*
 
 The weather wasn't promising and I wasn't entirely sure what I wanted to do.  They sort of had wifi there, so I hung around, uploaded a blog post, checked my email and enjoyed my coffee.  When I was ready to go, it was getting close to lunch and I hadn't had breakfast yet.  I stepped in to the other cafe at the mall and they prepared me a Rocky Mountain Pizza Wrap.  It was amazing, and warm, and had lots of pepperoni.  It was the perfect lunch for a day like that.
@@ -27,6 +28,7 @@ My last stop was the gas station, which was overrun with RV's.  The way the fuel
 Fully loaded up and ready to roll, I hit the road and went north on the Icefields Parkway.  As the weather report predicted, it was cloudy. I couldn't see the tops of most of the mountains around me and the road was a little damp in places.  Most of the trip was a mix of stopping to look at lakes and overlooks and occasionally getting stuck behind a tour bus and its cloud of spray.  It was a pretty nice day to be out, but not the best day to explore the parkway on a bike.
 
 ![blueriver]({{ "/assets/images/20180629/20180629_133653.jpg" | absolute_url }})
+
 *Yep, its that blue.  Apparently this comes from tiny particles ground up like flour by the glaciers*
 
 ![roadoverlook]({{ "/assets/images/20180629/20180629_135253.jpg" | absolute_url }})
@@ -34,11 +36,13 @@ Fully loaded up and ready to roll, I hit the road and went north on the Icefield
 By the time I arrived at Athabasca Glacier, the weather had cleared up a little and it had gotten a little warmer.  The tops of the mountains were visible and the sun was starting to shine.  The first thing I found when coming up from the south was the Icefields Discovery Center.  The parking lot was 100% full and they were directing vehicles to other more distant parking places.  That didn't seem like a place I wanted to be at.  Instead, I kept going to the parking lot at the base of the glacier.  There is a walking trail there that leads you up almost to the foot of the glacier, but they warn you pretty severely not to climb onto the glacier.  The glacier is full of cracks and crevasses that people can fall into, and when that happens rescues aren't usually successful.
 
 ![kidincrevass]({{ "/assets/images/20180629/20180629_145918.jpg" | absolute_url }})
+
 *Canadian signs still have the best drawings*
 
 ![donotenter]({{ "/assets/images/20180629/20180629_150155.jpg" | absolute_url }})
 
 ![glacierscrape]({{ "/assets/images/20180629/20180629_145947.jpg" | absolute_url }})
+
 *Scrapes from the retreating Glacier*
 
 ![athabasca1]({{ "/assets/images/20180629/IMG_3645.JPG" | absolute_url }})
@@ -48,6 +52,7 @@ By the time I arrived at Athabasca Glacier, the weather had cleared up a little 
 ![athabasca3]({{ "/assets/images/20180629/IMG_3651.JPG" | absolute_url }})
 
 ![athabasca4bus]({{ "/assets/images/20180629/IMG_3652.JPG" | absolute_url }})
+
 *There is a red bus in this picture, for scale*
 
 After hiking up to the foot of the glacier, or as close as they let you get, I stood around a bit and watched.  There is a side road that a tour company runs buses up and down, and at the top of that road, they transfer the people onto one of their big red ice explorer buses for a trip out onto the ice.  There's also a company that leads walking tours onto the ice, presumably with someone who knows what they're doing and won't let you fall into a crevass.  I think next time I'll opt for the walking tour.
