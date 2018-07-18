@@ -26,11 +26,13 @@ Along the way one of the towns I went through was Beaverlodge, AB.  I haven't lo
 ![beaver2]({{ "/assets/images/20180630/20180630_185133.jpg" | absolute_url }})
 
 ![mormon]({{ "/assets/images/20180630/20180701_092015.jpg" | absolute_url }})
+
 *That hair!*
 
 The last stop of the day was Dawson Creek.  I hadn't really thought about it, but I had been expecting something a little smaller.  I didn't expect a full airport, a starbucks, a super Walmart AND a Canadian Tire.  Clearly we're going to have to keep going a little farther to get out in the boonies.
 
 ![dinner]({{ "/assets/images/20180630/20180630_195243.jpg" | absolute_url }})
+
 *Thank you kind stranger!*
 
 I got setup in the Mile 0 RV Campground.  There were surprisingly few mosquitos, and the corner of the campground they devote to tent campers is right next to a pretty field.  After getting situated, I was standing around debating whether to make dinner, go out for dinner, or do laundry.  Thats when a kind neighbor showed up with this bowl of food and bag of cherries (At least I think they're cherries).  He explained that they had some leftover fish and wanted to me to have it because he had been in a similar camping situation before and would have appreciated a decent meal then.  I thanked him at least twice and sat down with one of the best meals I've had the entire trip.  Everything in the bowl was cooked just right, and the cherries at the end were a nice simple but delicious dessert.  I'll definitely have to do that for someone later on down the line. 
