@@ -8,6 +8,7 @@ category: alaska
 Someone was playing Yakkity Sax all morning.
 
 ---
+<a href="https://www.flickr.com/photos/36630181@N06/sets/72157671330738938/">Photos</a>
 
 It was a little weird waking up in a hotel room on a camping trip, but it sure was nice to have dry gear!   But, it wasn't exactly cheap, and thus began this mornings challenge/ordeal - finding a campsite.
 

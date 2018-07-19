@@ -8,6 +8,7 @@ category: alaska
 Brrrrrrr.
 
 ---
+<a href="https://www.flickr.com/photos/36630181@N06/sets/72157671330995418/">Photos</a>
 
 This morning started out lovely.  A quietish campground and dry weather; a calm start to the day.  I woke up, packed up all of the gear in my tent, tossed it out the door, got out and started taking down the tent - then it started raining.  Welcome to the mountains!
 

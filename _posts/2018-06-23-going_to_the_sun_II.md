@@ -9,6 +9,7 @@ Worth the Wait
 
 ---
 
+<a href="https://www.flickr.com/photos/36630181@N06/sets/72157696035612562/">Photos</a>
 
 ![slug]({{ "/assets/images/20180623/20180623_074137.jpg" | absolute_url }})
 

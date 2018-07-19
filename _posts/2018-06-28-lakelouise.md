@@ -8,6 +8,8 @@ category: alaska
 Escape From the Heart of Tourism
 
 ---
+<a href="https://www.flickr.com/photos/36630181@N06/sets/72157697559287131/">Photos</a>
+
 ![boots]({{ "/assets/images/20180628/20180628_093427.jpg" | absolute_url }})
 *Stylish new boot muffs! (My anti-chafing strategy)*
 

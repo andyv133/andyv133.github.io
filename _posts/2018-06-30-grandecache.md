@@ -8,6 +8,7 @@ category: alaska
 Feels like Nebraska.
 
 ---
+<a href="https://www.flickr.com/photos/36630181@N06/sets/72157671331008158/">Photos</a>
 
 ![road]({{ "/assets/images/20180630/20180630_135634.jpg" | absolute_url }})
 

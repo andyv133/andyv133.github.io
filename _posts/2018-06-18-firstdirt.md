@@ -8,6 +8,7 @@ category: alaska
 First Dirt!
 
 ---
+<a href="https://www.flickr.com/photos/36630181@N06/sets/72157699214624985/">Photos</a>
 
 The day started out pretty ordinary.  I woke up and looked at the radar:
 
