@@ -9,16 +9,19 @@ In a land of sad burgers, a good burger is a great motivator
 
 ---
 # Photos:
-<a href="https://www.flickr.com/photos/36630181@N06/sets/72157696035994792/">July 9</a>
 
+<a href="https://www.flickr.com/photos/36630181@N06/sets/72157699215186435/">July 10</a>
 
 Word was getting around that there might be more rain on the way, so it was time for me to head south.  At the very least, I wanted to get south of the Peel River ferry since all of the roads north of there had almost no gravel on them.  They might still be okay to ride on a bike in the rain, but there's also a good chance it would be like riding on a slip'n slide.  I packed up my tent, exchanged contact info with my new friends, and headed to the beach.
 
 ![pointfar]({{ "/assets/images/20180710/20180710_093102.jpg" | absolute_url }})
+*Looking back on the point - from the water*
 
 ![bikespit]({{ "/assets/images/20180710/20180710_093132.jpg" | absolute_url }})
+*I ran out of road*
 
 ![wetfoot]({{ "/assets/images/20180710/IMG_3733.JPG" | absolute_url }})
+*Brrrrr*
 
 For the first time during my stay at Tuk the weather was perfect - blue skies, warm, and plenty of sunshine.  I hadn't had a chance to get a few pictures down by the water yet, so this seemed like a good chance.  After loading the bike, I rode down to the end of the point and onto the little spit of land that juts out into the water at low tide.  I took a few pictures, helped another couple take a few pictures, stuck my foot in the water, and then retreated quickly to the mainland.  I probably would have stayed longer but the sea was taking a liking to my front wheel and if I waited much longer I would be going back on foot. Back on the mainland, I circled and waved one last time and then headed out of town.
 
@@ -31,6 +34,7 @@ The buskers, whom I thought had left the previous day, were camped out by the en
 My next stop was going to be Inuvik - specifically, Alestines Restaurant.  After my subpar experience with The Roost on the way up, I had talked to Dave and suggested that he try Alestines instead since he was in the same predicament that they were the only two places open on a Sunday in Inuvik.  When I ran into him again in Tuk, he told me that Alestines was awesome - the food was great, the people were fun, and he apparently even ended up camping in their backyard the first time.  So, thats where I wanted to go for lunch.  So, upon leaving Tuk, I moved with haste down to Inuvik, not only driven by the threat of swarming mosquitos and rain, but the promise of a delicious hamburger.  Thanks to from fresh road work, the ride down from Tuk was easy and quick.  I made it to Alestines within 15 minutes of their closing time, and they made me the very last hamburger of their lunch menu.  And it was delicious, as promised.  After that, I stopped for a tank of gas and kept going south.  The weather was still perfect and there was almost no traffic.  
 
 ![notleaking]({{ "/assets/images/20180710/20180710_160605.jpg" | absolute_url }})
+*No fork leaks!*
 
 ![waitingforferry]({{ "/assets/images/20180710/20180710_160533.jpg" | absolute_url }})
 
