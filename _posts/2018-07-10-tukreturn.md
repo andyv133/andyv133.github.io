@@ -64,7 +64,7 @@ Well, that works until the construction vehicle stops just to one side of the ro
 
 A couple miles later, I decided it was time for a break and a granola bar.  I pulled off to a rest area and got off the bike.  And, since I was excited that I had made it through the mud without incident, I let my guard down and dropped the bike on its side - just as a bus full of tourists was going by.  Oh well, at least the granola bar tasted good.
 
-The rest of the day was pretty uneventful.  I stopped for gas at the card lock gas station at the end of the Dempster and chatted with 5 other KLR riders who had just arrived in the area and were planning to go up the Dempster the next day.  One of them had a broken clutch cable, so they had all stopped to help.  I also found out that if you mix dust and rain, they can clog up a radiator pretty good!  Eventually I made it to a nice cheap $13 CAD campground on the outskirts of Dawson City that had laundry, wifi, and a much needed car wash.
+The rest of the day was pretty uneventful.  I stopped for gas at the card lock gas station at the end of the Dempster and chatted with 5 other KLR riders who had just arrived in the area and were planning to go up the Dempster the next day.  One of them had a broken clutch cable, so they had all stopped to help.  I also found out that if you mix dust and rain, they can clog up a radiator pretty good!  Eventually I made it to a nice cheap $18 CAD campground on the outskirts of Dawson City that had laundry, wifi, and a much needed car wash.
 
 ![dirty]({{ "/assets/images/20180710/20180711_115035.jpg" | absolute_url }})
 
